@@ -4,7 +4,7 @@ class HeaderComponent extends HTMLElement {
     this.innerHTML = `
       <header>
         <h1>Aplikasi Catatan</h1>
-        <p>Simpan semua ide dan informasi penting Anda dalam satu tempat</p>
+        <p>Simpan ide dan informasi penting Anda</p>
       </header>
     `;
   }

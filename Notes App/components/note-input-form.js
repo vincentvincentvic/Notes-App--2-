@@ -33,7 +33,7 @@ class NoteInputForm extends HTMLElement {
                 required
               ></textarea>
             </div>
-            <button type="submit" class="form-submit">Simpan Catatan</button>
+            <button type="submit" class="form-submit">Save</button>
           </form>
         </div>
       `;

@@ -57,7 +57,7 @@ class NoteItem extends HTMLElement {
           <div class="note-created">${formattedDate}</div>
           <div class="note-body">${this._body}</div>
           <div class="note-actions">
-            <button class="note-button archive-button">Arsipkan</button>
+            <button class="note-button archive-button">Arsip</button>
             <button class="note-button delete-button">Hapus</button>
           </div>
         </div>
